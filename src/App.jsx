@@ -15,6 +15,10 @@ function App() {
       <Card /> 
       <p>git pull request</p>
       <p>git pull request assigned to nagaraju</p>
+      <div>
+        <p>Girish</p> 
+        <p>Leaning git hub </p>
+      </div>
     </div>
   );
 }
