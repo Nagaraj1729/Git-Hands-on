@@ -1,5 +1,6 @@
 import './App.css'
 import Card from './components/Card'
+import Address from './components/Address'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       <h1 className='text-3xl font-semibold mb-2'>Vite + React Project</h1>
       <p className='text-lg'>This is created to practice GitHub version control</p>
       <Card/>
+     <Address/>
    </div>
   )
 }
