@@ -14,6 +14,7 @@ function App() {
     <h2>this is h2 tag</h2>
       <Card /> 
       <p>git pull request</p>
+      <p>git pull request assigned to nagaraju</p>
     </div>
   );
 }
