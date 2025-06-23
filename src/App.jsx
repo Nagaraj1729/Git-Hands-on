@@ -12,7 +12,9 @@ function App() {
     <p>this p tag</p> 
     <h1>this h1 tag </h1> 
     <h2>this is h2 tag</h2>
-      <Card />
+      <Card /> 
+      <p>git pull request</p>
+      <p>git pull request assigned to nagaraju</p>
     </div>
   );
 }
