@@ -9,17 +9,10 @@ function App() {
         {" "}
         Sample Header
       </header>
-      <h1 className="text-3xl font-semibold mb-2">Vite + React Project</h1>
-      <p className="text-lg">
-        This is created to practice GitHub version control
-      </p>
-      <p>learning git hub repos how to push and pull request </p>
-      <p>Personal Details para line</p>
-
-      <h3>third heading my code change </h3>
-
+    <p>this p tag</p> 
+    <h1>this h1 tag </h1> 
+    <h2>this is h2 tag</h2>
       <Card />
-      <Address />
     </div>
   );
 }
