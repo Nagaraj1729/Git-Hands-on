@@ -13,6 +13,8 @@ function App() {
      <p>Personal Details para line</p>
       <Card/>
      <Address/>
+     <h1>My First Heading</h1>
+     <h2>Second Heading</h2>
    </div>
   )
 }
