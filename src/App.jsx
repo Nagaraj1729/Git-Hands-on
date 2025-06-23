@@ -9,6 +9,7 @@ function App() {
     <header className='bg-gray-300 py-4 fixed w-full top-0 font-medium tracking-widest'> Sample Header</header>
       <h1 className='text-3xl font-semibold mb-2'>Vite + React Project</h1>
       <p className='text-lg'>This is created to practice GitHub version control</p>
+     <p>Personal Details para line</p>
       <Card/>
      <Address/>
    </div>
