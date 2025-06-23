@@ -15,7 +15,7 @@ function App() {
       </p>
       <p>learning git hub repos how to push and pull request </p>
       <p>Personal Details para line</p>
-      <h3>third heading</h3>
+      <h3>third heading is going to be removed</h3>
       <Card />
       <Address />
     </div>
