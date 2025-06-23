@@ -18,8 +18,6 @@ function App() {
       <h3>third heading</h3>
       <Card />
       <Address />
-      <h1>My First Heading</h1>
-      <h2>Second Heading</h2>
     </div>
   );
 }
